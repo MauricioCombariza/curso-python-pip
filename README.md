@@ -10,6 +10,7 @@ python3 game/main.py
 ```sh
 git clone
 cd app
+conda create --name platzi-pip-app
 conda activate platzi-pip-app
 pip3 install -r requirements.txt
 python3 main.py
